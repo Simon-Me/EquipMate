@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/EquipMate/static/css/main.56e9d063.css",
+    "main.js": "/EquipMate/static/js/main.377753d8.js",
+    "static/js/239.fdcf22ea.chunk.js": "/EquipMate/static/js/239.fdcf22ea.chunk.js",
+    "static/js/213.d149e380.chunk.js": "/EquipMate/static/js/213.d149e380.chunk.js",
+    "static/js/732.491c791e.chunk.js": "/EquipMate/static/js/732.491c791e.chunk.js",
+    "static/media/png-transparent-axe-hatchet-ico-icon-bloody-ax-cartoon-ax-icon-design Kopie.png": "/EquipMate/static/media/png-transparent-axe-hatchet-ico-icon-bloody-ax-cartoon-ax-icon-design Kopie.53c7c53e7fcfd52db7c4.png",
+    "index.html": "/EquipMate/index.html",
+    "main.56e9d063.css.map": "/EquipMate/static/css/main.56e9d063.css.map",
+    "main.377753d8.js.map": "/EquipMate/static/js/main.377753d8.js.map",
+    "239.fdcf22ea.chunk.js.map": "/EquipMate/static/js/239.fdcf22ea.chunk.js.map",
+    "213.d149e380.chunk.js.map": "/EquipMate/static/js/213.d149e380.chunk.js.map",
+    "732.491c791e.chunk.js.map": "/EquipMate/static/js/732.491c791e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e9d063.css",
+    "static/js/main.377753d8.js"
+  ]
+}

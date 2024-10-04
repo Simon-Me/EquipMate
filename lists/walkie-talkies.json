@@ -1,0 +1,93 @@
+{
+  "Motorola": {
+    "Walkie Talkie": [
+      "CP040",
+      "DP2400e"
+    ]
+  },
+  "Hollyland": {
+    "Intercom": [
+      "SYSCOM 1000T",
+      "Solidcom C1 1x Master 5x Remote",
+      "Solidcom C1 Pro 8S",
+      "Solidcom C1 Pro 3S"
+    ]
+  },
+  "Eartec": {
+    "Intercom": [
+      "UltraLite HD UL5S",
+      "UltraLite HD UL6S"
+    ]
+  },
+  "Teradek": {
+    "Intercom": [
+      "Bolt 4K MAX"
+    ]
+  },
+  "Clear-Com": {
+    "Intercom": [
+      "FreeSpeak II",
+      "HelixNet"
+    ]
+  },
+  "RTS": {
+    "Intercom": [
+      "BTR-800",
+      "BTR-240"
+    ]
+  },
+  "Riedel": {
+    "Intercom": [
+      "Bolero",
+      "Artist"
+    ]
+  },
+  "Unity Intercom": {
+    "Intercom": [
+      "Unity Connect"
+    ]
+  },
+  "Green-GO": {
+    "Intercom": [
+      "Digital Intercom System"
+    ]
+  },
+  "Altair": {
+    "Walkie Talkie": [
+      "WP-300"
+    ]
+  },
+  "Kenwood": {
+    "Walkie Talkie": [
+      "TK-3701D",
+      "TK-3401D"
+    ]
+  },
+  "Hytera": {
+    "Walkie Talkie": [
+      "PD505",
+      "PD665"
+    ]
+  },
+  "Icom": {
+    "Walkie Talkie": [
+      "IC-F29SR",
+      "IC-F1000"
+    ]
+  },
+  "Vertex Standard": {
+    "Walkie Talkie": [
+      "VX-261"
+    ]
+  },
+  "Tait": {
+    "Walkie Talkie": [
+      "TP3300"
+    ]
+  },
+  "Sepura": {
+    "Walkie Talkie": [
+      "SC20"
+    ]
+  }
+}

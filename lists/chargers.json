@@ -1,0 +1,123 @@
+{
+    "bebob": {
+      "V-Mount": [
+        "VS4 (4-channel)",
+        "VS2 (2-channel)",
+        "VS1 (1-channel)"
+      ],
+      "Gold Mount": [
+        "AS4 (4-channel)",
+        "AS2 (2-channel)"
+      ]
+    },
+    "IDX": {
+      "V-Mount": [
+        "VL-2000S (2-channel)",
+        "VL-4S (4-channel)"
+      ]
+    },
+    "Anton Bauer": {
+      "V-Mount": [
+        "Performance Dual V-Mount (2-channel)",
+        "Performance Quad V-Mount (4-channel)"
+      ],
+      "Gold Mount": [
+        "Performance Dual Gold Mount (2-channel)",
+        "Performance Quad Gold Mount (4-channel)"
+      ]
+    },
+    "SWIT": {
+      "V-Mount": [
+        "S-3812S (2-channel)",
+        "S-3804F (4-channel)"
+      ]
+    },
+    "Core SWX": {
+      "V-Mount": [
+        "Fleet Micro Charger (2-channel)",
+        "Fleet D (4-channel)"
+      ],
+      "Gold Mount": [
+        "Fleet Micro Charger GM (2-channel)",
+        "Fleet D GM (4-channel)"
+      ]
+    },
+    "Fxlion": {
+      "V-Mount": [
+        "FX-HP2A (2-channel)",
+        "FX-HP4A (4-channel)"
+      ]
+    },
+    "RED": {
+      "REDVOLT": [
+        "REDVOLT Charger (2-channel)",
+        "REDVOLT QUAD Charger (4-channel)"
+      ]
+    },
+    "Sony": {
+      "BP": [
+        "BC-U1A (1-channel)",
+        "BC-U2A (2-channel)"
+      ],
+      "NP": [
+        "BC-QM1 (1-channel)",
+        "NPA-MQZ1K Multi-Battery Adaptor Kit (4-channel)"
+      ]
+    },
+    "Canon": {
+      "LP-E": [
+        "LC-E6 (1-channel)",
+        "LC-E6E (1-channel)",
+        "LC-E19 (1-channel)"
+      ]
+    },
+    "Panasonic": {
+      "DMW": [
+        "DMW-BTC14 (1-channel)"
+      ],
+      "AG": [
+        "AG-BRD50 (1-channel)"
+      ]
+    },
+    "Nikon": {
+      "EN-EL": [
+        "MH-25a (1-channel)",
+        "MH-26a (2-channel)"
+      ]
+    },
+    "Fujifilm": {
+      "NP": [
+        "BC-W235 (1-channel)",
+        "BC-W126S (1-channel)"
+      ]
+    },
+    "Blackmagic Design": {
+      "URSA": [
+        "URSA Mini Pro 12V AC Power Adapter",
+        "URSA VLock Battery Plate"
+      ]
+    },
+    "Watson": {
+      "Multi-Brand": [
+        "Duo LCD Charger (2-channel)"
+      ]
+    },
+    "Generic": {
+      "Universal": [
+        "V-Mount 2xCharger",
+        "V-Mount 4xCharger",
+        "Gold Mount 2xCharger",
+        "Gold Mount 4xCharger",
+        "NP-F Series Charger",
+        "LP-E6 Charger",
+        "EN-EL15 Charger",
+        "NP-FZ100 Charger",
+        "BP-U Series Charger",
+        "DMW-BLF19 Charger",
+        "NP-W235 Charger",
+        "REDVOLT Charger",
+        "B-Mount Charger",
+        "Multi-Battery Charger"
+      ]
+    }
+  }
