@@ -1,4 +1,9 @@
 {
+  "": {
+    "Generic": [
+      "Moltonlatte 3m x 3m"
+    ]
+  },
   "Aputure": {
     "Softboxen": [
       "Light Dome 150",
@@ -17,7 +22,14 @@
     "Barndoors": [
       "Barndoor for 120d/300d",
       "Barndoor for 600 Series"
-    ]
+    ],
+    "Spotlightmount": [
+      "Spotlightmount 19°",
+      "Spotlightmount 26°",
+      "Spotlightmount 36°",
+      "Gobo Set",
+      "Iris"
+  ]
   },
   "DOP Choice": {
     "Softboxen": [
@@ -183,11 +195,6 @@
     "Projektor-Zubehör": [
       "Projection Attachment",
       "Gobo Holder"
-    ]
-  },
-  "Other": {
-    "Projektor-Zubehör": [
-      "Moltonlatte 3m x 3m"
     ]
   }
 }
