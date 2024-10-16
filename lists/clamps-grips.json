@@ -1,4 +1,48 @@
 {
+  "Generic": {
+    "Clamps": [
+      "Grip Head",
+      "Gobo Head",
+      "A-Clamp Grip Clip",
+      "Mafer Clamp",
+      "Super Clamp",
+      "Big Ben Clamp",
+      "Barrel Clamp",
+      "C-Clamp",
+      "Cardellini Clamp",
+      "Scissor Clamp",
+      "G-Clamp 100 x 100mm",
+      "C-Stand",
+      "Baby C-Stand",
+      "Low Boy",
+      "Autopole",
+      "Hanging Pole",
+      "Wall Spreader",
+      "Menace Arm",
+      "Spigot (various sizes)",
+      "16mm to 28mm Adapter",
+      "28mm to 16mm Adapter",
+      "T-Bar",
+      "Cheese Plate",
+      "Ball Joint",
+      "Articulating Arm (Magic Arm)",
+      "Shot Bag (various weights)",
+      "Sand Bag",
+      "Chain Bag",
+      "C-Stand Weight",
+      "Safety Cable",
+      "Carabiner",
+      "Lamp Safety Cable",
+      "Flag (various sizes)",
+      "Cutter",
+      "Reflector Holder",
+      "Butterfly Frame",
+      "Diffusion Frame",
+      "Grip Board",
+      "Dolly for Stands",
+      "Spider for Stands"
+    ]
+  },
   "Avenger": {
     "Clamps": [
       "C150 C-Clamp",
@@ -61,18 +105,6 @@
     "Clamps": [
       "Spannschloss"
     ]
-  },
-  "Generic": {
-    "Clamps": [
-      "A-Clamp Grip Clip",
-      "Krokoklemme",
-      "Uniklemme",
-      "Big Ben",
-      "Barrel Clamp",
-      "Schraubklemme",
-      "Cardellini Clamp",
-      "Deckenscherenklemme",
-      "Schraubzwinge 100 x 100mm"
-    ]
   }
+  
 }
